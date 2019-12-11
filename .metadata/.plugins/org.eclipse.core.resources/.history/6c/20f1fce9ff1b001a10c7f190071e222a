@@ -1,0 +1,16 @@
+package core;
+
+//Imports //
+
+
+public class Private_field {
+	
+	private int a;
+	//
+	public static void main(String[] args) {
+		
+		// 
+		a = 10;
+	}
+
+}

@@ -1,0 +1,15 @@
+package core;
+
+//Imprts //
+import java.util.Scanner;
+public class Private_field {
+	
+	
+	//
+	public static void main(String[] args) {
+		
+		// 
+		
+	}
+
+}

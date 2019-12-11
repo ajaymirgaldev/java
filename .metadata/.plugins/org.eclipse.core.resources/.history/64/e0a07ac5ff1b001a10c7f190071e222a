@@ -1,0 +1,16 @@
+package core;
+
+//Imprts //
+
+
+public class Private_field {
+	
+	
+	//
+	public static void main(String[] args) {
+		
+		// 
+		
+	}
+
+}

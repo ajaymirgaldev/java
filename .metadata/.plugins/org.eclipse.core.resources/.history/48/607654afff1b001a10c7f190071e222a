@@ -1,0 +1,13 @@
+package core;
+
+public class Private_field {
+	
+	
+	//
+	public static void main(String[] args) {
+		
+		// 
+		
+	}
+
+}

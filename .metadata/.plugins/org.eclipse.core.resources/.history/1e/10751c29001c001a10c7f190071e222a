@@ -1,0 +1,28 @@
+package core;
+
+//Imports //
+
+
+public class Private_field {
+	
+	private int a;
+	
+	//
+	private void getUseInput(){
+		
+		a = 10;
+	}
+	
+	
+	
+	
+	
+	
+	
+	//
+	public static void main(String[] args) {
+		
+		// 
+	}
+
+}
