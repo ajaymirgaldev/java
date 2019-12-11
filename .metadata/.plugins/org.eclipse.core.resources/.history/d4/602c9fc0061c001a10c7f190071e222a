@@ -1,7 +1,5 @@
 package core;
 
-import java.util.Scanner;
-
 //Imports //
 
 
@@ -11,7 +9,7 @@ public class Private_field {
 	//private scanner;
 	//
 	private void getUseInput(){
-		Scanner scanner = new Scanner(System.in);
+		Scanner scanner = new Scanner(System.in)
 		a = 10;
 	}
 	
