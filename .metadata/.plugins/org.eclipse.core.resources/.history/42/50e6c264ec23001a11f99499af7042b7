@@ -1,0 +1,28 @@
+/**
+ * 
+ */
+package core;
+
+/**
+ * @author ajay.mirgal
+ *
+ */
+public class Animal {
+	
+	//Declaration //
+	
+	
+	//Initialization
+	
+	
+	
+	//Constructor//
+	Animal(){
+		
+	}
+	
+	//Public method //
+	public void eat(){
+		System.out.println("I am eating eating...");
+	}
+}

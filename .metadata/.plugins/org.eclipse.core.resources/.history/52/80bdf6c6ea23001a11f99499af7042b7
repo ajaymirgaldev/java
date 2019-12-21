@@ -1,0 +1,13 @@
+package core;
+
+//
+public class Dog extends Animal {
+	
+	//
+	Dog(){
+		
+	}
+	
+	//
+	
+}

@@ -1,0 +1,44 @@
+/**
+ * 
+ */
+package core;
+
+/**
+ * @author ajay.mirgal
+ *
+ */
+public class Car {
+
+	private String carColor;
+	
+	
+	//Class parameterized constructor//
+	Car(String color){
+		
+		//Set car color//
+		setCarDetails(color);
+		
+	}
+	
+	//Setter
+	private void setCarDetails(String color){
+		
+		carColor = color;
+		System.out.print("Your Car Details as follows: "+carColor);
+	}
+	
+	//Getter
+	public void getCarDetails(){
+		System.out.print("Your Car Details as follows: "+carColor);
+	}
+	
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		//Instantiating Car class //
+		Car car = new Car();
+	}
+
+}

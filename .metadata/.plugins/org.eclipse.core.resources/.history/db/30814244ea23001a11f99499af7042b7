@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package core;
+
+/**
+ * @author ajay.mirgal
+ *
+ */
+public class Animal {
+	
+	//
+	
+	//
+	
+	//Constructor//
+	Animal(){
+		
+	}
+}

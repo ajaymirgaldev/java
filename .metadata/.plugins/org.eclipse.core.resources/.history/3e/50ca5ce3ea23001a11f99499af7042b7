@@ -1,0 +1,17 @@
+package core;
+
+//
+public class Dog extends Animal {
+	
+	//
+	Dog(){
+		
+	}
+	
+	//
+	private void bark(){
+		System.out.println("Dog can Bark...");
+	}
+	
+	
+}

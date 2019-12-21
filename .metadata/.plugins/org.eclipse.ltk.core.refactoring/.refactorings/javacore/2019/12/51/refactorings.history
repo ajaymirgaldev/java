@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 3 elements to &apos;javacore/src/jinharitence&apos;&#x0D;&#x0A;- Original project: &apos;javacore&apos;&#x0D;&#x0A;- Destination element: &apos;javacore/src/jinharitence&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     core.Puppy.java&#x0D;&#x0A;     core.Dog.java&#x0D;&#x0A;     core.Animal.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;jinharitence" element1="/src&lt;core{Puppy.java" element2="/src&lt;core{Dog.java" element3="/src&lt;core{Animal.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1576930997992" units="3" version="1.0"/>
+</session>

@@ -1,0 +1,25 @@
+package core;
+
+//
+public class Dog extends Animal {
+	
+	//
+	Dog(){
+		
+	}
+	
+	//
+	private void bark(){
+		System.out.println("Dog can Bark...");
+	}
+	
+	public static void main(String arg[]){
+		
+		//instance of Dog class//
+		Dog dog = new Dog();
+		
+		//
+		
+		
+	}
+}

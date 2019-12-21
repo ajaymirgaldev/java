@@ -1,0 +1,16 @@
+package core;
+
+public class Puppy extends Dog {
+
+	//
+	
+	public void weep(){
+		System.out.println("Puppy is weeping…");
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
