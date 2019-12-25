@@ -1,6 +1,8 @@
-
+/**
+ * 
+ */
 /**
  * @author ajay.mirgal
  *
  */
-package core;
+package j_abstract;
