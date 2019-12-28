@@ -1,0 +1,170 @@
+Java basics - Data Types in Java
+
+Java Programs
+1) Fibonacci series
+2) Prime number
+3) Palindrome number
+4) Factorial number
+5) Armstrong number
+
+Java Sorting Programs
+1) Bubble Sort
+2) Selection Sort
+3) Insertion Sort
+
+Java Searching Programs
+1) Linear Search
+2) Binary Search
+
+Java Array Programs
+1) Java Program to copy all elements of one array into another array
+2) Java Program to find the frequency of each element in the array
+3) Java Program to left rotate the elements of an array
+4) Java Program to print the duplicate elements of an array
+5) Java Program to print the elements of an array
+6) Java Program to print the elements of an array in reverse order
+7) Java Program to print the elements of an array present on even position
+8) Java Program to print the elements of an array present on odd position
+9) Java Program to print the largest element in an array
+10) Java Program to print the smallest element in an array
+11) Java Program to print the number of elements present in an array
+12) Java Program to print the sum of all the items of the array
+13) Java Program to right rotate the elements of an array
+14) Java Program to sort the elements of an array in ascending order
+15) Java Program to sort the elements of an array in descending order
+16) Find 3rd Largest Number in an Array
+17) Find 2nd Largest Number in an Array
+18) Find Largest Number in an Array
+19) Find 2nd Smallest Number in an Array
+20) Find Smallest Number in an Array
+21) Remove Duplicate Element in an Array
+22) Add Two Matrices
+23) Multiply Two Matrices
+24) Print Odd and Even Number from an Array
+25) Transpose matrix
+
+Java Matrix Programs
+1. Java Matrix Programs
+2) Java Program to subtract the two matrices
+3) Java Program to determine whether a given matrix is an identity matrix
+4) Java Program to determine whether a given matrix is a sparse matrix
+5) Java Program to determine whether two matrices are equal
+6) Java Program to display the lower triangular matrix
+7) Java Program to display the upper triangular matrix
+8) Java Program to find the frequency of odd & even numbers in the given matrix
+9) Java Program to find the product of two matrices
+10) Java Program to find the sum of each row and each column of a matrix
+11) Java Program to find the transpose of a given matrix
+
+Java String programs
+1) Java Program to count the total number of characters in a string
+2) Java Program to count the total number of characters in a string 2
+3) Java Program to count the total number of punctuation characters exists in a String
+4) Java Program to count the total number of vowels and consonants in a string
+5) Java Program to determine whether two strings are the anagram
+6) Java Program to divide a string in 'N' equal parts.
+7) Java Program to find all subsets of a string
+8) Java Program to find the longest repeating sequence in a string
+9) Java Program to find all the permutations of a string
+10) Java Program to remove all the white spaces from a string
+11) Java Program to replace lower-case characters with upper-case and vice-versa
+12) Java Program to replace the spaces of a string with a specific character
+13) Java Program to determine whether a given string is palindrome
+14) Java Program to determine whether one string is a rotation of another
+15) Java Program to find maximum and minimum occurring character in a string
+16) Java Program to find Reverse of the string
+17) Java program to find the duplicate characters in a string
+18) Java program to find the duplicate words in a string
+19) Java Program to find the frequency of characters
+20) Java Program to find the largest and smallest word in a string
+21) Java Program to find the most repeated word in a text file
+22) Java Program to find the number of the words in the given text file
+23) Java Program to separate the Individual Characters from a String
+24) Java Program to swap two string variables without using third or temp variable.
+25) Java Program to print smallest and biggest possible palindrome word in a given string
+
+Java Pattern programs
+1) Java Program to count the total number of punctuation characters exists in a String
+2) Java program to print the following pattern
+3) Java program to print the following pattern 2
+4) Java program to print the following pattern 3
+5) Java program to print the following pattern 4
+6) Java program to print the following pattern 5
+7) Java program to print the following pattern on the console
+8) Java program to print the following pattern on the console 2
+9) Java program to print the following pattern on the console 3
+10) Java program to print the following pattern on the console 4
+11) Java program to print the following pattern on the console 5
+12) Java program to print the following pattern on the console 6
+13) Java program to print the following pattern on the console 7
+14) Java program to print the following pattern on the console 8
+15) Java program to print the following pattern on the console 9
+16) Java program to print the following pattern on the console 10
+17) Java program to print the following pattern on the console 11
+18) Java program to print the following pattern on the console 12
+19) Java program to print the following spiral pattern on the console
+
+Java Singly Linked List Programs
+1) Singly linked list Examples in Java
+2) Java Program to create and display a singly linked list
+3) Java program to create a singly linked list of n nodes and count the number of nodes
+4) Java program to create a singly linked list of n nodes and display it in reverse order
+5) Java program to delete a node from the beginning of the singly linked list
+6) Java program to delete a node from the middle of the singly linked list
+7) Java program to delete a node from the end of the singly linked list
+8) Java program to determine whether a singly linked list is the palindrome
+9) Java program to find the maximum and minimum value node from a linked list
+10) Java Program to insert a new node at the middle of the singly linked list
+11) Java program to insert a new node at the beginning of the singly linked list
+12) Java program to insert a new node at the end of the singly linked list
+13) Java program to remove duplicate elements from a singly linked list
+14) Java Program to search an element in a singly linked list
+
+Java Circular Linked List Programs
+1) Java program to create and display a Circular Linked List
+2) Java program to create a Circular Linked List of N nodes and count the number of nodes
+3) Java program to create a Circular Linked List of n nodes and display it in reverse order
+4) Java program to delete a node from the beginning of the Circular Linked List
+5) Java program to delete a node from the end of the Circular Linked List
+6) Java program to delete a node from the middle of the Circular Linked List
+7) Java program to find the maximum and minimum value node from a circular linked list
+8) Java program to insert a new node at the beginning of the Circular Linked List
+9) Java program to insert a new node at the end of the Circular Linked List
+10) Java program to insert a new node at the middle of the Circular Linked List
+11) Java program to remove duplicate elements from a Circular Linked List
+12) Java program to search an element in a Circular Linked List
+13) Java program to sort the elements of the Circular Linked List
+
+Java Doubly Linked List Programs
+1) Java program to convert a given binary tree to doubly linked list
+2) Java program to create a doubly linked list from a ternary tree
+3) Java program to create a doubly linked list of n nodes and count the number of nodes
+4) Java program to create a doubly linked list of n nodes and display it in reverse order
+5) Java program to create and display a doubly linked list
+6) Java program to delete a new node from the beginning of the doubly linked list
+7) Java program to delete a new node from the end of the doubly linked list
+8) Java program to delete a new node from the middle of the doubly linked list
+9) Java program to find the maximum and minimum value node from a doubly linked list
+10) Java program to insert a new node at the beginning of the Doubly Linked list
+10) Java program to insert a new node at the end of the Doubly Linked List
+12) Java program to insert a new node at the middle of the Doubly Linked List
+13) Java program to remove duplicate elements from a Doubly Linked List
+14) Java program to rotate doubly linked list by N nodes
+15) Java program to search an element in a doubly linked list
+16) Java program to sort the elements of the doubly linked list
+
+Java Tree Programs
+1) Java Program to calculate the Difference between the Sum of the Odd Level and the Even Level Nodes of a Binary Tree
+2) Java program to construct a Binary Search Tree and perform deletion and In-order traversal
+3) Java program to convert Binary Tree to Binary Search Tree
+4) Java program to determine whether all leaves are at same level
+5) Java program to determine whether two trees are identical
+6) Java program to find maximum width of a binary tree
+7) Java program to find the largest element in a Binary Tree
+8) Java program to find the maximum depth or height of a tree
+9) Java program to find the nodes which are at the maximum distance in a Binary Tree
+10) Java program to find the smallest element in a tree
+11) Java program to find the sum of all the nodes of a binary tree
+12) Java program to find the total number of possible Binary Search Trees with N keys
+13) Java program to implement Binary Tree using the Linked List
+14) Java program to search a node in a Binary Tree
