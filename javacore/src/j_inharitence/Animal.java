@@ -1,7 +1,7 @@
 /**
  * 
  */
-package jinharitence;
+package j_inharitence;
 
 /**
  * @author ajay.mirgal

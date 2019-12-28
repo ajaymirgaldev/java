@@ -1,4 +1,4 @@
-package jinharitence;
+package j_inharitence;
 
 public class Puppy extends Dog {
 

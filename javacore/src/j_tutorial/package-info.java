@@ -5,4 +5,4 @@
  * @author ajay.mirgal
  *
  */
-package jinharitence;
+package j_tutorial;
